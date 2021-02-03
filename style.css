@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-size: 20px;
+    background-color: chartreuse;
+    font-variant: small-caps
+}
+
+.p1 {
+    font-size: 30px;
+    font-variant: small-caps
+}
+div {
+    margin-top: 15px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.isection {
+    display: flex;
+    justify-content: center;
+}
+
+.ssection {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+.abcsection {
+    display: flex;
+    justify-content: center;
+}
+
+.xyzsection {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
